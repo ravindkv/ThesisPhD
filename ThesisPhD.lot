@@ -1,0 +1,70 @@
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 1.1}{\ignorespaces The third component of the weak-isospin, hypercharge, and charge quantum numbers for leptons, quarks, and bosons.}}{8}{table.1.1}% 
+\contentsline {table}{\numberline {\relax 1.2}{\ignorespaces The mass of all fundamental particles in terms of the free parameters of the standard model with the corresponding observed values.}}{13}{table.1.2}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 2.1}{\ignorespaces The scalar potential and physical parameters of the Higgs sector of the 2HDM.}}{16}{table.2.1}% 
+\contentsline {table}{\numberline {\relax 2.2}{\ignorespaces The different types of 2HDM. The quarks and leptons interact either with the first or the second Higgs doublet in different types.}}{17}{table.2.2}% 
+\contentsline {table}{\numberline {\relax 2.3}{\ignorespaces The coupling of quarks and leptons with Higgs $A$ for all types of 2HDM.}}{17}{table.2.3}% 
+\contentsline {table}{\numberline {\relax 2.4}{\ignorespaces Allowed range at 95\% CL for various parameters from the search for charged Higgs involving $c\mathaccentV {bar}016{s}$ channel at different collider experiments.}}{22}{table.2.4}% 
+\contentsline {table}{\numberline {\relax 2.5}{\ignorespaces Allowed range at 95\% CL for various parameters from the search for charged Higgs involving other channels such as $\tau ^+\nu , ~c\mathaccentV {bar}016{b}$, and $t\mathaccentV {bar}016{b}$ at different collider experiments.}}{23}{table.2.5}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 3.1}{\ignorespaces The energy of protons after passing through various accelerators.}}{34}{table.3.1}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 4.1}{\ignorespaces Various properties and parameters of the CMS muon subsystems \cite {Sirunyan:2018fpa}.}}{65}{table.4.1}% 
+\contentsline {table}{\numberline {\relax 4.2}{\ignorespaces Event rate after applying level-1 and high-level triggers.}}{68}{table.4.2}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 5.1}{\ignorespaces Muon and electron data samples recorded in 2016 with an integrated luminosity 35.9\unhbox \voidb@x \hbox {\ensuremath {\tmspace +\thinmuskip {.1667em}\text {fb}^{-1}}}\xspace .}}{77}{table.5.1}% 
+\contentsline {table}{\numberline {\relax 5.2}{\ignorespaces Background and signal simulated samples with corresponding cross section and the number of events.}}{80}{table.5.2}% 
+\contentsline {table}{\numberline {\relax 5.3}{\ignorespaces The SM \ensuremath {{\PQt {}\PAQt }\xspace + \text {jets}}\xspace samples used for systematics study.}}{81}{table.5.3}% 
+\contentsline {table}{\numberline {\relax 5.4}{\ignorespaces Selection and veto cuts applied on muon.}}{84}{table.5.4}% 
+\contentsline {table}{\numberline {\relax 5.5}{\ignorespaces Selection and veto cuts applied on electron found in barrel and endcap regions.}}{87}{table.5.5}% 
+\contentsline {table}{\numberline {\relax 5.6}{\ignorespaces Effective area for different $\eta _{\textrm {sc}}$ range.}}{89}{table.5.6}% 
+\contentsline {table}{\numberline {\relax 5.7}{\ignorespaces Selection criteria applied on jets.}}{90}{table.5.7}% 
+\contentsline {table}{\numberline {\relax 5.8}{\ignorespaces Track selection criteria. PCA stands for the point of closest approach.}}{92}{table.5.8}% 
+\contentsline {table}{\numberline {\relax 5.9}{\ignorespaces Secondary vertex selection criteria. $d_{\textrm {PV, SV}}^{\textrm {trans}}$ is the 2D flight distance or the distance between a primary and secondary vertex in the transverse plane.}}{92}{table.5.9}% 
+\contentsline {table}{\numberline {\relax 5.10}{\ignorespaces The efficiency of loose (L), medium (M), and tight (T) \PQb tag working points for different quark-flavor of jets \cite {Sirunyan:2017ezt}. These efficiencies are calculated from {\PQt {}\PAQt }\xspace events with jet \ensuremath {p_{\mathrm {T}}}\xspace $>$ 20 \ensuremath {\tmspace +\thinmuskip {.1667em}\text {Ge\hspace {-.08em}V}}\xspace .}}{93}{table.5.10}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 6.1}{\ignorespaces Jet energy resolution scale factors for different $\eta $ range}}{97}{table.6.1}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 7.1}{\ignorespaces List of event filters applied to data and simulated samples. Most of the filters are available in the MINIAOD dataset through the trigger collection. The unavailable filters are applied on the fly using EDFilters.}}{100}{table.7.1}% 
+\contentsline {table}{\numberline {\relax 7.2}{\ignorespaces Event yields after various selection cuts for the \ensuremath {\mu + \text {jets}}\xspace channel. The \ensuremath {\PW + \text {jets}}\xspace process is the dominant background upto 1-lepton selection. When the events are required to have $N_{jets} \geq 4$, the \ensuremath {{\PQt {}\PAQt }\xspace + \text {jets}}\xspace becomes the dominant background. The QCD multijet events are from simulated samples as listed in Table~\ref {tab:mcSample}. The simulated MC signal process corresponds to $\ensuremath {m_{\text {H}^+}}\xspace =120$ \ensuremath {\tmspace +\thinmuskip {.1667em}\text {Ge\hspace {-.08em}V}}\xspace .}}{103}{table.7.2}% 
+\contentsline {table}{\numberline {\relax 7.3}{\ignorespaces Event yields after various selection cuts for the \ensuremath {\text {e} + \text {jets}}\xspace channel. A similar trend as that of Table~\ref {tab:cutflow_mu} is seen. The simulated MC signal process corresponds to $\ensuremath {m_{\text {H}^+}}\xspace =120$ \ensuremath {\tmspace +\thinmuskip {.1667em}\text {Ge\hspace {-.08em}V}}\xspace .}}{103}{table.7.3}% 
+\contentsline {table}{\numberline {\relax 7.4}{\ignorespaces Signal event yields for the different mass of charged Higgs after various selection cuts for the \ensuremath {\mu + \text {jets}}\xspace channel. Event yields are almost same upto 1-lepton selection for all mass points. However, after the $N_{jets} \geq 4$ selection (when \ensuremath {{\PQt {}\PAQt }\xspace + \text {jets}}\xspace becomes the dominant background as shown in Table~\ref {tab:cutflow_mu}) the event yield for higher masses of the charged Higgs are reduced more compared to lower masses. The event yield reduces because of the less phase space available between top-quark and charged Higgs for higher masses.}}{104}{table.7.4}% 
+\contentsline {table}{\numberline {\relax 7.5}{\ignorespaces Signal event yields for different mass of charged Higgs after various selection cuts for the \ensuremath {\text {e} + \text {jets}}\xspace channel. Similar trend as that of Table~\ref {tab:cutflow_mu_sig} is seen.}}{104}{table.7.5}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 8.1}{\ignorespaces The efficiency of loose (L), medium (M), and tight (T) \PQc tag working points for different quark-flavor of jets \cite {Sirunyan:2017ezt}. These efficiencies are calculated from {\PQt {}\PAQt }\xspace events with jet \ensuremath {p_{\mathrm {T}}}\xspace $>$ 20 \ensuremath {\tmspace +\thinmuskip {.1667em}\text {Ge\hspace {-.08em}V}}\xspace .}}{114}{table.8.1}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 9.1}{\ignorespaces Event yields from different regions, for \ensuremath {\mu + \text {jets}}\xspace channel after kinematic fit selection.}}{122}{table.9.1}% 
+\contentsline {table}{\numberline {\relax 9.2}{\ignorespaces Event yields from different regions, for \ensuremath {\text {e} + \text {jets}}\xspace channel after kinematic fit selection.}}{124}{table.9.2}% 
+\contentsline {table}{\numberline {\relax 9.3}{\ignorespaces The QCD multijet transfer scale factors ($\text {SF}_{\text {qcd}}$) for \ensuremath {\mu + \text {jets}}\xspace and \ensuremath {\text {e} + \text {jets}}\xspace channel after various selection steps. The categorization of events based on exclusive loose, medium, and tight \PQc quark tagging is described in Section~\ref {s:secMjjCat}.}}{125}{table.9.3}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 10.1}{\ignorespaces Event yield for inclusive category after kinematic fit selection. The statistical uncertainty in the total background corresponds to the quadratically added uncertainties from individual backgrounds. However, a systematic uncertainty correlated among each background is linearly added for the total background. And each uncorrelated systematic uncertainty for the total background is quadratically added.}}{131}{table.10.1}% 
+\contentsline {table}{\numberline {\relax 10.2}{\ignorespaces Event yield for inclusive loose charm category after kinematic fit selection. The statistical uncertainty in the total background corresponds to the quadratically added uncertainties from individual backgrounds. However, a systematic uncertainty correlated among each background is linearly added for the total background. And each uncorrelated systematic uncertainty for the total background is quadratically added.}}{133}{table.10.2}% 
+\contentsline {table}{\numberline {\relax 10.3}{\ignorespaces Event yield from exclusive charm categories after kinematic fit selection. The statistical uncertainty in the total background corresponds to the quadratically added uncertainties from individual backgrounds. However, a systematic uncertainty correlated among each background is linearly added for the total background. And each uncorrelated systematic uncertainty for the total background is quadratically added.}}{138}{table.10.3}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 11.1}{\ignorespaces Inclusive loose \PQc tag types. The acronym yLyMnT refers to the case where a jet satisfies loose and medium, but not tight working point.}}{141}{table.11.1}% 
+\contentsline {table}{\numberline {\relax 11.2}{\ignorespaces Inclusive medium \PQc tag types.}}{141}{table.11.2}% 
+\contentsline {table}{\numberline {\relax 11.3}{\ignorespaces Systematic and statistical uncertainties in \%, from inclusive category after kinematic fit selection for \ensuremath {\mu + \text {jets}}\xspace (\ensuremath {\text {e} + \text {jets}}\xspace ) channel. The ``---'' indicates that the corresponding uncertainties are not considered for the given process.}}{144}{table.11.3}% 
+\contentsline {table}{\numberline {\relax 11.4}{\ignorespaces Systematic and statistical uncertainties in \%, from inclusive loose charm tagging category after kinematic fit selection for \ensuremath {\mu + \text {jets}}\xspace (\ensuremath {\text {e} + \text {jets}}\xspace ) channel. The ``---'' indicates that the corresponding uncertainties are not considered for the given process.}}{144}{table.11.4}% 
+\contentsline {table}{\numberline {\relax 11.5}{\ignorespaces Systematic and statistical uncertainties in \%, from exclusive charm tagging categories after kinematic fit selection for \ensuremath {\mu + \text {jets}}\xspace (\ensuremath {\text {e} + \text {jets}}\xspace ) channel. The ``---'' indicates that the corresponding uncertainties are not considered for the given process.}}{145}{table.11.5}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 12.1}{\ignorespaces Description of nuisance parameters corresponding to the systematic and statistical uncertainties.}}{155}{table.12.1}% 
+\contentsline {table}{\numberline {\relax 12.2}{\ignorespaces 95\% CL exclusion limit in \% for \ensuremath {\mu + \text {jets}}\xspace channel from different event categories.}}{160}{table.12.2}% 
+\contentsline {table}{\numberline {\relax 12.3}{\ignorespaces 95\% CL exclusion limit in \% for \ensuremath {\text {e} + \text {jets}}\xspace channel from different event categories.}}{163}{table.12.3}% 
+\contentsline {table}{\numberline {\relax 12.4}{\ignorespaces 95\% CL exclusion limit in \% for \ensuremath {\text {l} + \text {jets}}\xspace channel from different event categories.}}{163}{table.12.4}% 
+\contentsline {table}{\numberline {\relax 12.5}{\ignorespaces Acronym used in the impact plots for naming statistical nuisance parameters.}}{164}{table.12.5}% 
+\contentsline {table}{\numberline {\relax 12.6}{\ignorespaces Goodness of fit for \ensuremath {\mu + \text {jets}}\xspace channel, from different event categories.}}{171}{table.12.6}% 
+\contentsline {table}{\numberline {\relax 12.7}{\ignorespaces Goodness of fit for \ensuremath {\text {e} + \text {jets}}\xspace channel, from different event categories.}}{171}{table.12.7}% 
+\contentsline {table}{\numberline {\relax 12.8}{\ignorespaces Goodness of fit for \ensuremath {\text {l} + \text {jets}}\xspace channel, from different event categories.}}{171}{table.12.8}% 
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {\relax 13.1}{\ignorespaces 95\% \ensuremath {\text {CL}}\xspace exclusion limits in \% for the \ensuremath {\mu + \text {jets}}\xspace from combined \PQc tagging categories.}}{175}{table.13.1}% 
+\contentsline {table}{\numberline {\relax 13.2}{\ignorespaces 95\% \ensuremath {\text {CL}}\xspace exclusion limits in \% for the \ensuremath {\text {e} + \text {jets}}\xspace from combined \PQc tagging categories.}}{175}{table.13.2}% 
+\contentsline {table}{\numberline {\relax 13.3}{\ignorespaces 95\% \ensuremath {\text {CL}}\xspace exclusion limits in \% for the \ensuremath {\text {l} + \text {jets}}\xspace from combined \PQc tagging categories.}}{175}{table.13.3}% 
