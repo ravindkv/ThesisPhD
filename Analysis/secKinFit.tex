@@ -120,11 +120,11 @@ which minimises the $\chi^2$ and at the same time satisfies Equation (\ref{eq:co
 \label{ss:chi2KF} 
 For every selected event, a $\chi^2$ is constructed which is given by
 \begin{equation}
-	\chi^2 = \left(\frac{m_t - 172.5}{\sigma_{m_{t}}}\right) + 
-	\left(\frac{m_{\bar{t}} - 172.5}{\sigma_{m_{\bar{t}}}}\right)+
-	\sum_{i}\left(\frac{p_i^{\text{fit, lep}} - p_i^{\text{lep}}}{\sigma_{p^{\text{lep}}_i}}\right)+
+	\chi^2 = \left(\frac{m_t - 172.5}{\sigma_{m_{t}}}\right)^2 + 
+	\left(\frac{m_{\bar{t}} - 172.5}{\sigma_{m_{\bar{t}}}}\right)^2+
+	\sum_{i}\left(\frac{p_i^{\text{fit, lep}} - p_i^{\text{lep}}}{\sigma_{p^{\text{lep}}_i}}\right)^2+
 	\sum_{j}\sum_{i}\left(\frac{p_i^{\text{fit}, \text{jet}_j} - 
-	p_i^{\text{jet}_j}}{\sigma_{p^{\text{jet}_j}_i}}\right)
+	p_i^{\text{jet}_j}}{\sigma_{p^{\text{jet}_j}_i}}\right)^2
 \label{eq:chi2KF}
 \end{equation}
 where $\sigma_{m_{t}}$ is the resolution of the mass of the \PQt quark and $\sigma_{p_{i}}$ 
