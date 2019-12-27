@@ -10,7 +10,6 @@ rm ThesisPhD.nlo
 rm ThesisPhD.out
 rm ThesisPhD.synctex.gz
 rm ThesisPhD.toc
-rm ThesisPhD.pdf
 rm ThesisPhD.acn
 rm ThesisPhD.glo
 rm ThesisPhD.glsdefs
